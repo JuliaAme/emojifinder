@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  height: 295px;
+  background: linear-gradient(92.33deg, #087990 0.12%, #055160 100%);
+  border: 1px solid #ced4da;
+  text-align: center;
+  padding-top: 68px;
+  padding-bottom: 100px;
+  position: relative;
+}
+.title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 87px;
+  color: #cff4fc;
+  margin-bottom: 4px;
+}
+.subtitle {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 36px;
+  color: #cff4fc;
+}
+.input {
+  height: 64px;
+  width: 820px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  background: #ffffff;
+
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
